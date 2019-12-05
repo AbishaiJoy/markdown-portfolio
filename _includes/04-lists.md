@@ -1,4 +1,4 @@
-:sugar
-:bun
-:tree
-:happy
+- sugar
+- bun
+- tree
+- happy
